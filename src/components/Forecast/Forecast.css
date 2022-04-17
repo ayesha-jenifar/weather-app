@@ -1,0 +1,9 @@
+.temp {
+  font-size: 70px;
+}
+.weather-card {
+  border: 1px solid rgba(128, 128, 128, 0.475);
+  border-radius: 20px;
+  padding: 40px;
+  max-width: 18rem;
+}
